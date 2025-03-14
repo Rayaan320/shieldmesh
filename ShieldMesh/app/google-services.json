@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "542284888548",
+    "project_id": "shieldmesh-c22bf",
+    "storage_bucket": "shieldmesh-c22bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542284888548:android:5dac4da53cd407fa30aff1",
+        "android_client_info": {
+          "package_name": "com.rayaan.shieldmesh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7YE4WVwEEBDerqdD1ubEUp_1hRDewPmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
